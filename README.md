@@ -58,10 +58,3 @@ under the supervision of the department.
 
 ---
 
-## 🚀 **How to Run**
-
-```bash
-git clone https://github.com/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME/
-pip install -r requirements.txt
-streamlit run app.py
