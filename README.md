@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="KSU_MasterLogo_Colour_RGB.png" alt="King Saud University Logo" width="420">
+</p>
+
 # Comparing Arabic BERT vs Logistic Regression — Graduation Project
 Graduation project: Streamlit app comparing Arabic BERT and Logistic Regression for sentiment classification of Saudi banks’ tweets using a shared train/validation/test split.
 
