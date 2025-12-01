@@ -3,7 +3,7 @@
   <img src="KSU_MasterLogo_Colour_RGB.png" alt="King Saud University Logo" width="380" />
 </p>
 
-# 📊 Comparing Arabic BERT vs Logistic Regression — Graduation Project
+# Comparing Arabic BERT vs Logistic Regression — Graduation Project
 
 This Streamlit application compares **Large Language Models (Arabic BERT)** with **Traditional Statistical Models (TF–IDF + Logistic Regression)** for **sentiment classification of Saudi banks’ tweets**.  
 
@@ -11,7 +11,7 @@ Both models are trained & evaluated using a **shared stratified split (70% train
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The project includes:
 
@@ -23,7 +23,7 @@ The project includes:
 
 ---
 
-## 🏫 Institutional Information
+##  Institutional Information
 
 **King Saud University**  
 **College of Science**  
@@ -34,7 +34,7 @@ This work is submitted as a **graduation requirement** for the
 
 ---
 
-## 👨‍🎓 Student Information
+##  Student Information
 
 | Role | Details |
 |------|---------|
@@ -45,7 +45,7 @@ This work is submitted as a **graduation requirement** for the
 
 ---
 
-## 👨‍🏫 Academic Supervisor
+##  Academic Supervisor
 
 | Role | Details |
 |------|---------|
@@ -54,7 +54,7 @@ This work is submitted as a **graduation requirement** for the
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Tools / Libraries |
 |----------|------------------|
@@ -66,23 +66,3 @@ This work is submitted as a **graduation requirement** for the
 | **Frameworks** | HuggingFace Transformers, Scikit-learn, PyTorch |
 
 ---
-
-## 📌 Notes
-
-- This repository contains the full Streamlit code for the comparison interface.
-- The project demonstrates **statistical and machine learning techniques** for text classification in Arabic.
-- All experiments follow strict, controlled, and reproducible methodology.
-
----
-
-## 📄 License
-
-This project is part of a **graduation requirement** at King Saud University  
-and is **not licensed for commercial use**.
-
----
-
-## ⭐ Support
-
-If you find this repository useful, consider giving it a ⭐ on GitHub!
-
