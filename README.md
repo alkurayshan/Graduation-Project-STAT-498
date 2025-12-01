@@ -1,4 +1,4 @@
-<p align="center">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9e7f44e5-c609-4811-9224-d427c3871b72" /><p align="center">
   <img src="KSU_MasterLogo_Colour_RGB.png" alt="King Saud University Logo" width="420">
 </p>
 
@@ -37,7 +37,7 @@ under the supervision of the department.
 | **Student**       | **Abdulrahman Mohammed Al-Kurayshan** |
 | 📧 **University Email** | `443102096@student.ksu.edu.sa` |
 | 📧 **Personal Email**   | `alkurayshanabdulrahman@outlook.com` |
-
+| ** Linkedin**            | https://www.linkedin.com/in/akurayshan/ |
 ---
 
 ##  **Academic Supervisor**
